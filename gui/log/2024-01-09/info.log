@@ -1,0 +1,12 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/09 - 20:15:17.622	[34minfo[0m	G:/Projects/Others/wails-gin-vue-admin/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/09 - 20:15:17.623	[34minfo[0m	G:/Projects/Others/wails-gin-vue-admin/initialize/router.go:49	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/09 - 20:15:17.623	[34minfo[0m	G:/Projects/Others/wails-gin-vue-admin/initialize/router.go:85	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/09 - 20:15:17.624	[34minfo[0m	G:/Projects/Others/wails-gin-vue-admin/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/09 - 20:18:26.899	[34minfo[0m	G:/Projects/Others/wails-gin-vue-admin/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/09 - 20:18:26.899	[34minfo[0m	G:/Projects/Others/wails-gin-vue-admin/initialize/router.go:49	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/09 - 20:18:26.899	[34minfo[0m	G:/Projects/Others/wails-gin-vue-admin/initialize/router.go:85	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/09 - 20:18:26.900	[34minfo[0m	G:/Projects/Others/wails-gin-vue-admin/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/09 - 20:18:30.859	[34minfo[0m	G:/Projects/Others/wails-gin-vue-admin/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/09 - 20:18:30.860	[34minfo[0m	G:/Projects/Others/wails-gin-vue-admin/initialize/router.go:49	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/09 - 20:18:30.865	[34minfo[0m	G:/Projects/Others/wails-gin-vue-admin/initialize/router.go:85	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/09 - 20:18:30.867	[34minfo[0m	G:/Projects/Others/wails-gin-vue-admin/core/server.go:41	server run success on 	{"address": ":8888"}
